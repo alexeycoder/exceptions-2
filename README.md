@@ -6,11 +6,11 @@
 
 *Вариант решения:*
 
-[Task1](blob/main/src/Task1.java)
+[Task1](src/Task1.java)
 
 *Пример работы:*
 
-
+![float-input](https://user-images.githubusercontent.com/109767480/232048091-e1dbe437-83ea-4fbe-8213-ba264d97099d.png)
 
 ## Задание 2.
 
@@ -28,7 +28,7 @@ try {
 
 *Вариант решения:*
 
-[Task2](blob/main/src/Task2.java)
+[Task2](src/Task2.java)
 
 ## Задание 3.
 
@@ -58,7 +58,7 @@ public static void printSum(Integer a, Integer b) throws FileNotFoundException {
 
 *Вариант решения:*
 
-[Task3](blob/main/src/Task3.java)
+[Task3](src/Task3.java)
 
 ## Задание 4.
 
@@ -66,8 +66,8 @@ public static void printSum(Integer a, Integer b) throws FileNotFoundException {
 
 *Вариант решения:*
 
-[Task4](blob/main/src/Task4.java)
+[Task4](src/Task4.java)
 
 *Пример работы:*
 
-
+![non-empty-str-input](https://user-images.githubusercontent.com/109767480/232048167-e90741ef-2fe5-431b-a51d-4ea8ed6b710c.png)
